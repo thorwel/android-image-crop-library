@@ -7,6 +7,7 @@ android image or picture crop library. (by gallery or camera)
 this library base <a href='https://github.com/edmodo/cropper#cropper'>cropper</a>
 
 <b>USAGE</b>
+
 Just add click event
 PhotoTakerUtils.openTaker(this, this);
 
